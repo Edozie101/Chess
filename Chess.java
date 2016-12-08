@@ -21,7 +21,7 @@ public class Chess extends JFrame{
   }
 
   JFrame frame = new Jframe("Chess");
-  Piece[][] board  = new Piece[8][8];
+  // Piece[][] board  = new Piece[8][8];
   frame.setSize(500,500);
   frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
   frame.setLayout()
